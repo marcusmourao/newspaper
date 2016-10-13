@@ -1,0 +1,21 @@
+.dark-blue    { background: #303F9F; }
+.default-blue { background: #3F51B5; }
+.light-blue   { background: #C5CAE9; }
+.white-text    { color: #FFFFFF; }
+.black-text    { color: #212121; }
+.default-gray  { color: #757575;  }
+.light-gray    { border-color: #BDBDBD; }
+
+.text-justify{
+    text-align: justify;
+}
+
+.big-image-news {
+    width: 550px;
+    height: 325px;
+}
+
+.big-image-news img {
+    max-height:100%;
+    max-width: 100%;
+}
